@@ -9,7 +9,7 @@ form.addEventListener("submit", (evento) => {
     
     criaElemento(nome.value , quantidade.value)
 
-    nome.value = ""
+     nome.value = ""
     quantidade.value = ""
 })
 
